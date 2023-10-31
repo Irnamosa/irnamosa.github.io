@@ -4,13 +4,22 @@ title:
 permalink: /
 ---
 
-In 2021, I graduated from The University of Melbourne with both a Bachelor of Science degree (major in mathematical physics) and a concurrent diploma in computer science. I moved to Sydney in 2022 to pursue an Honours in Physics at The University of New South Wales, where I recently graduated from. 
 
-With over two years of research experience in quantum machine learning, I have helped design quantum algorithms for simulating exotic phenomena in quantum thermodynamics, as well as for identifying patterns in datasets that classical computers cannot identify. Currently, I work as a core researcher in the inaugural quantum algorithms team at Australia’s world-leading quantum company, Silicon Quantum Computing.
-## Papers 
-- <a href="/docs/upcoming/abstract_results.pdf" download>A Generalisation of Classically Intractable Learning Problems
-    that are Solvable with Quantum Machine Learning</a> (Abstract. Thesis under IP. To be submitted to Quantum)
+In 2021, I graduated from The University of Melbourne with both a Bachelor of Science degree (major in mathematical physics) and a concurrent diploma in computer science. I moved to Sydney in 2022 to pursue an Honours in Physics at The University of New South Wales. Under the supervision of Australian of the Year, Prof. Michelle Simmons,  I graduated later that year with the University Medal. Soon after graduating, I began working as a quantum algorithms associate for the inaugural quantum algorithms team at Australia’s world-leading quantum startup, Silicon Quantum Computing. This continued until September 2023, when I moved overseas to LA to begin a Master of Quantum Science and Technology at UCLA. 
+
+Building advantageous quantum kernels out of quantum dot arrays for use in data featurization. Designing patterns in datasets that classical ML cannot identify but quantum ML can. Designing quantuma algorithms that simulating exotic quantum thermodynamic phenomena. With over two years of research experience in both digital and analogue quantum machine learning, this is only the beginning of my foray into this revolutionary field.
+
+<!-- 
+## Papers
+- <a href="/docs/upcoming/SZK_for_QSVM.pdf" download>Statistical Zero Knowledge Problems for the Quantum Support Vector Machine</a> Latest manuscript as of Oct 2023. To be submitted to PRX Quantum by Nov 2023.)
 - <a href="https://arxiv.org/abs/2205.09300" download>Inducing Heat Reversal on a Three-Qubit Spin Chain</a> (to be submitted to an international scientific journal)
+ -->
+## Papers
+- [Statistical Zero Knowledge Problems for the Quantum Support Vector Machine](/docs/upcoming/SZK_for_QSVM.pdf)  
+  Latest manuscript as of Oct 2023. To be submitted to PRX Quantum by Nov 2023.
+
+- [Inducing Heat Reversal on a Three-Qubit Spin Chain](https://arxiv.org/abs/2205.09300)  
+  To be submitted to an international scientific journal.
 
 ## Past work
 - <a href="/docs/pastwork/LR.pdf" download>Quantum Feature Extraction: a Literature Review</a>
