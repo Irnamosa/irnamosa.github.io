@@ -1,9 +1,8 @@
 ---
 layout: page
 title: 
-permalink: /
+permalink: /getting-started/
 ---
-
 In 2021, I graduated from The University of Melbourne with both a Bachelor of Science degree (major in mathematical physics) and a concurrent diploma in computer science. I moved to Sydney in 2022 to pursue an Honours in Physics at The University of New South Wales, where I recently graduated from. 
 
 With over two years of research experience in quantum machine learning, I have helped design quantum algorithms for simulating exotic phenomena in quantum thermodynamics, as well as for identifying patterns in datasets that classical computers cannot identify. Currently, I work as a core researcher in the inaugural quantum algorithms team at Australia’s world-leading quantum company, Silicon Quantum Computing.
