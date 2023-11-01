@@ -4,10 +4,10 @@ title:
 permalink: /
 ---
 
+Building advantageous quantum kernels out of quantum dot arrays for use in data featurization. Designing patterns in datasets that classical ML cannot identify but quantum ML can. Designing quantuma algorithms that simulating exotic quantum thermodynamic phenomena. With over two years of research experience in both digital and analogue quantum machine learning, this is only the beginning of my foray into this revolutionary field.
 
 In 2021, I graduated from The University of Melbourne with both a Bachelor of Science degree (major in mathematical physics) and a concurrent diploma in computer science. I moved to Sydney in 2022 to pursue an Honours in Physics at The University of New South Wales. Under the supervision of Australian of the Year, Prof. Michelle Simmons,  I graduated later that year with the University Medal. Soon after graduating, I began working as a quantum algorithms associate for the inaugural quantum algorithms team at Australia’s world-leading quantum startup, Silicon Quantum Computing. This continued until September 2023, when I moved overseas to LA to begin a Master of Quantum Science and Technology at UCLA. 
 
-Building advantageous quantum kernels out of quantum dot arrays for use in data featurization. Designing patterns in datasets that classical ML cannot identify but quantum ML can. Designing quantuma algorithms that simulating exotic quantum thermodynamic phenomena. With over two years of research experience in both digital and analogue quantum machine learning, this is only the beginning of my foray into this revolutionary field.
 
 <!-- 
 ## Papers
@@ -19,10 +19,13 @@ Building advantageous quantum kernels out of quantum dot arrays for use in data 
   Latest manuscript as of Oct 2023. To be submitted to PRX Quantum by Nov 2023.
 
 - [Inducing Heat Reversal on a Three-Qubit Spin Chain](https://arxiv.org/abs/2205.09300)  
-  To be submitted to an international scientific journal.
+  To be submitted to an international scientific journal by Dec 2023. 
 
-## Past work
+## Past projects
+- <a href="/docs/pastwork/sonique.pdf" download>Data Featurization with Quantum Random Kitchen Sinks based on Dot Arrays (IP protected)</a>
+- <a href="https://github.com/rsnegrin/Qiskit-Hackathon" download>Qiskit Fall Fest UCLA 2023 Entry: Simulation of the Quantum Adiabatic Principle</a>
 - <a href="/docs/pastwork/LR.pdf" download>Quantum Feature Extraction: a Literature Review</a>
+- <a href="https://github.com/Irnamosa/QuantumImage/blob/main/kernel/featuremap/qPCA.ipynb" download>Quantum Principal Component Analysis on MNIST</a>
 - <a href="/docs/pastwork/qica.pdf" download>Quantum Independent Component Analysis: a Proposal</a>
 - <a href="https://github.com/Irnamosa/QuantumImage/tree/main/image_loading" download>Quantum Image Loading Techniques</a>
 - <a href="https://vrs.amsi.org.au/wp-content/uploads/sites/78/2021/01/naghdi_saleh_vrs-report.pdf" download>Quantum Boltzmann Machines</a>
@@ -31,7 +34,6 @@ Building advantageous quantum kernels out of quantum dot arrays for use in data 
 - <a href="/docs/pastwork/sfl.pdf" download>Simulated Fluorescent Labelling</a>
 
 ## Past Talks
-
 - <a href="/docs/pasttalks/speedup.pptx" download>Classically intractable decision problems admitting a representation in quantum feature space</a> (2022 UNSW Physics Honours Presentations; 2022 Warrane College November Colloquium)
 - <a href="/docs/pasttalks/QTC.pptx" download>Quantum Principal Component Analysis with silicon-based qubits</a> (2022 Adelaide Chief of Army Symposium)
 - <a href="/docs/pasttalks/reversal.pptx" download>Reviewing heat reversal between two qubits</a> (2022 Quantum Australia Conference; 2022 Unimelb
