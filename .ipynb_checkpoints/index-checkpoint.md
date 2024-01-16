@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Building advantageous quantum kernels out of quantum dot arrays for use in data featurization. Designing patterns in datasets that classical ML cannot identify but quantum ML can. Designing quantuma algorithms that simulating exotic quantum thermodynamic phenomena. With over two years of research experience in both digital and analogue quantum machine learning, this is only the beginning of my foray into this revolutionary field.
+Creating advantageous quantum kernels from quantum dot arrays for data featurization. Developing patterns in datasets that classical ML struggles to identify, but quantum ML excels at. Designing quantum algorithms to simulate exotic quantum thermodynamic phenomena. With over two years of research experience in both digital and analog quantum machine learning, this marks just the beginning of my journey into this revolutionary field.
 
 In 2021, I graduated from The University of Melbourne with both a Bachelor of Science degree (major in mathematical physics) and a concurrent diploma in computer science. I moved to Sydney in 2022 to pursue an Honours in Physics at The University of New South Wales. Under the supervision of Australian of the Year, Prof. Michelle Simmons,  I graduated later that year with the University Medal. Soon after graduating, I began working as a quantum algorithms associate for the inaugural quantum algorithms team at Australia’s world-leading quantum startup, Silicon Quantum Computing. This continued until September 2023, when I moved overseas to LA to begin a Master of Quantum Science and Technology at UCLA. 
 
